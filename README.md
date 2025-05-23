@@ -2,6 +2,7 @@
 Pattern Recognition and Machine Learning
 Practical Assignment
 Digits 3-D
+![image](https://github.com/user-attachments/assets/059a53e0-55ba-4c33-9bb8-e793d46cde5a)
 
 1 Problem Statement
 
